@@ -1,0 +1,12 @@
+{
+	"type": "service_account",
+	"project_id": "23e23e32331aferf-3b",
+	"private_key_id": "erfwef2332e3d23d23d",
+	"private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpo/Rf4BdPaW4r\\ne42hjZkpV0jShiDSyHfnzz5Itcpa4NGejHRr8AnhpmsQWCh5xHiKCXkvlKNUgi8d\\nBTHzU1wfQb7K5NhаUbmBYMptJd1OeEJXr/lAu10Y4h8s2GwlFvje34dha82xMygF\\neN54f95goV92nUa55whuhS81RnLBMlIGzGvMV5ABorvEGB8C23e32jek2n3ejkn23eBeuXK2Krl9FqM8KuylS4thM6tnBjh0lzHnX0BapFkFjmmxr61ml\\nAn1Hwno80m9kxQTZFWyXWkxk2EWtVtCMMn2Mp/nvU00pVpzepg2wAwFQqpybRz5f\\nj0UNyb5jAgMBAAECggEAENsаdztNGvhhrdNh0BlsNwXeYqtYy+jcX9L2oC3j/zdT\\nIhBYVGNDmsFjkPpZfI6PiukEZWcSUDLRRe5pYgE4kuiARykJnYvYmqjd5DjSGQUX\\nqR5/QzXQEHQOCfGFKVhI092yVh/qjmlZWCsu28VEziWAAUlWU4wdCTJAQxMOvZsT\\nP8Qt3h2g3Ox33EGx9+BKH58Knle/3PCl6DnbzSsnfSsTZ338lKwyWixKteAwDUTS\\nCwcK23ejn23kejnVDG4id1JIkAPjmX\\nVJfRMKPTdEluaL5DlCiQ1+TICuReXeNvDYQj/i4GkQKBgQDnRUI01HbOCoMoKVKT\\nZirMQ0osLHufVE1lo7WRFQr2+HqodmyGlDyEcBJ/D9fDgGDxpjZVmp7fMmxISaGL\\ndSBdBdLy5u/yjXVyerWRwmMvyg6mGztYzjXPsMxcMhjfQg7oYduEqfU1i/0nBqux\\nHctt1/aGNuWxi86EaYiDihXE8wKBgQC7x6Y7rJtTO0XIxEICFzSKSVEDbvs7ZvCg\\ntGx9D8HPcip7ODbyVH6WYFpOZeneGKT6h287aGNK2vGYOBDzNYJlFOTzYPpCv9FI\\n/ZoRLq45kbHfzrL95X7B4+09t6Bsbn968k5pFi9GP2itZ52t7hj+lVsW/V54qZfW\\npFHZm3k80QKBgD7Wm7GdFRbQ1mhAKhawyOotUmcEQya8kjcOr1PXYt5OD43cd4pt\\nlq/pf60Ukeyl4jFmlxbVZ1t/6NoPX5xz27JK1dF4HDRMaWAMpW8QYUDn5ukNNyff\\nB9IB2NUoK4fl/AT6Kdo3D9BX1BYZguciEFctOee3223jekn23ejkngJd6JkZlB4A5cWY8i\\nvDBQM9MYB+3lP5BTYZb3PhKqrHPBmYpY0dWuqz0LtMp8qabI7GBdwefnVFKPa2G9ybk\\nh2Ez9qXEAiePz67asY5Fw4uJZw3NZ/YfpkKso2FARiXX1uIitqQ1KDOIO85zsdyv\\w/VdPwef0c=\\n-----END PRIVATE KEY-----\\n",
+    "client_email": "firebase-adminsdk-f9nzh@tonkeeper-3b1dc.iam.gserviceaccount.com",
+    "client_id": "114232321119234075034er33506252",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f91zh%40toу1а1pааr-3b1dc.iam.gservigeaccount.com"
+}
